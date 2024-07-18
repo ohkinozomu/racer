@@ -14,9 +14,9 @@ require (
 	github.com/salrashid123/aws_rolesanywhere_signer v0.0.2
 	github.com/salrashid123/signer/tpm v0.0.0-20240617111903-89bbd6f3aaad
 	github.com/spf13/cobra v1.8.1
-	k8s.io/apimachinery v0.30.2
+	k8s.io/apimachinery v0.30.3
 	k8s.io/klog/v2 v2.130.1
-	k8s.io/kubelet v0.30.2
+	k8s.io/kubelet v0.30.3
 )
 
 require (
