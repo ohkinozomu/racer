@@ -4,14 +4,14 @@ go 1.22.4
 
 require (
 	github.com/aws/aws-sdk-go-v2 v1.30.1
-	github.com/aws/aws-sdk-go-v2/config v1.27.23
+	github.com/aws/aws-sdk-go-v2/config v1.27.24
 	github.com/aws/aws-sdk-go-v2/service/ecr v1.30.1
 	github.com/aws/aws-sdk-go-v2/service/ecrpublic v1.25.1
 	github.com/aws/rolesanywhere-credential-helper v1.1.2-0.20240606210719-9e9f3c425643
 	github.com/foxboron/go-tpm-keyfiles v0.0.0-20240620184055-b891af1cbc88
 	github.com/google/go-tpm v0.9.1
 	github.com/google/go-tpm-tools v0.4.4
-	github.com/salrashid123/aws_rolesanywhere_signer v0.0.2
+	github.com/salrashid123/aws_rolesanywhere_signer v0.0.3
 	github.com/salrashid123/signer/tpm v0.0.0-20240617111903-89bbd6f3aaad
 	github.com/spf13/cobra v1.8.1
 	k8s.io/apimachinery v0.30.2
@@ -21,7 +21,7 @@ require (
 
 require (
 	github.com/aws/aws-sdk-go v1.54.11 // indirect
-	github.com/aws/aws-sdk-go-v2/credentials v1.17.23 // indirect
+	github.com/aws/aws-sdk-go-v2/credentials v1.17.24 // indirect
 	github.com/aws/aws-sdk-go-v2/feature/ec2/imds v1.16.9 // indirect
 	github.com/aws/aws-sdk-go-v2/internal/configsources v1.3.13 // indirect
 	github.com/aws/aws-sdk-go-v2/internal/endpoints/v2 v2.6.13 // indirect
@@ -29,7 +29,7 @@ require (
 	github.com/aws/aws-sdk-go-v2/service/internal/accept-encoding v1.11.3 // indirect
 	github.com/aws/aws-sdk-go-v2/service/internal/presigned-url v1.11.15 // indirect
 	github.com/aws/aws-sdk-go-v2/service/sso v1.22.1 // indirect
-	github.com/aws/aws-sdk-go-v2/service/ssooidc v1.26.1 // indirect
+	github.com/aws/aws-sdk-go-v2/service/ssooidc v1.26.2 // indirect
 	github.com/aws/aws-sdk-go-v2/service/sts v1.30.1 // indirect
 	github.com/aws/smithy-go v1.20.3 // indirect
 	github.com/go-logr/logr v1.4.1 // indirect
