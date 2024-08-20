@@ -30,6 +30,8 @@ github.com/aws/aws-sdk-go-v2/service/sts v1.30.1 h1:+woJ607dllHJQtsnJLi52ycuqHMw
 github.com/aws/aws-sdk-go-v2/service/sts v1.30.1/go.mod h1:jiNR3JqT15Dm+QWq2SRgh0x0bCNSRP2L25+CqPNpJlQ=
 github.com/aws/rolesanywhere-credential-helper v1.1.2-0.20240606210719-9e9f3c425643 h1:5hbNLeENe/da65OiFJO++IqYyLrijK1yvk11SFuqLjE=
 github.com/aws/rolesanywhere-credential-helper v1.1.2-0.20240606210719-9e9f3c425643/go.mod h1:xwl38jCOv1N0Vi8FLSkIc5Mt8fab0r47xJRxFO6g08g=
+github.com/aws/rolesanywhere-credential-helper v1.1.2-0.20240819150942-a182ff0138d9 h1:pcnFxWx3NKtpCjf/PXO3PjKg32cgUW3VTM2q1cv7fe4=
+github.com/aws/rolesanywhere-credential-helper v1.1.2-0.20240819150942-a182ff0138d9/go.mod h1:YRxmRrAaqbVVXPNH1gHT76nWaMGvpAziHAHw8UwKrpU=
 github.com/aws/smithy-go v1.20.3 h1:ryHwveWzPV5BIof6fyDvor6V3iUL7nTfiTKXHiW05nE=
 github.com/aws/smithy-go v1.20.3/go.mod h1:krry+ya/rV9RDcV/Q16kpu6ypI4K2czasz0NC3qS14E=
 github.com/cpuguy83/go-md2man/v2 v2.0.4/go.mod h1:tgQtvFlXSQOSOSIRvRPT7W67SCa46tRHOmNcaadrF8o=
