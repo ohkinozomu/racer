@@ -13,7 +13,7 @@ require (
 	github.com/google/go-tpm-tools v0.4.4
 	github.com/salrashid123/aws_rolesanywhere_signer v0.0.2
 	github.com/salrashid123/signer/tpm v0.0.0-20240617111903-89bbd6f3aaad
-	github.com/spf13/cobra v1.8.1
+	github.com/spf13/cobra v1.10.2
 	k8s.io/apimachinery v0.30.2
 	k8s.io/klog/v2 v2.130.1
 	k8s.io/kubelet v0.30.2
@@ -42,7 +42,7 @@ require (
 	github.com/miekg/pkcs11 v1.1.1 // indirect
 	github.com/modern-go/concurrent v0.0.0-20180306012644-bacd9c7ef1dd // indirect
 	github.com/modern-go/reflect2 v1.0.2 // indirect
-	github.com/spf13/pflag v1.0.5 // indirect
+	github.com/spf13/pflag v1.0.9 // indirect
 	github.com/stefanberger/go-pkcs11uri v0.0.0-20230803200340-78284954bff6 // indirect
 	golang.org/x/crypto v0.21.0 // indirect
 	golang.org/x/net v0.23.0 // indirect
