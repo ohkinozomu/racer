@@ -9,7 +9,7 @@ require (
 	github.com/aws/aws-sdk-go-v2/service/ecrpublic v1.25.1
 	github.com/aws/rolesanywhere-credential-helper v1.1.2-0.20240606210719-9e9f3c425643
 	github.com/foxboron/go-tpm-keyfiles v0.0.0-20240620184055-b891af1cbc88
-	github.com/google/go-tpm v0.9.1
+	github.com/google/go-tpm v0.9.8
 	github.com/google/go-tpm-tools v0.4.4
 	github.com/salrashid123/aws_rolesanywhere_signer v0.0.2
 	github.com/salrashid123/signer/tpm v0.0.0-20240617111903-89bbd6f3aaad
