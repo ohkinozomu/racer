@@ -12,7 +12,7 @@ require (
 	github.com/google/go-tpm v0.9.1
 	github.com/google/go-tpm-tools v0.4.4
 	github.com/salrashid123/aws_rolesanywhere_signer v0.0.2
-	github.com/salrashid123/signer/tpm v0.0.0-20240617111903-89bbd6f3aaad
+	github.com/salrashid123/signer/tpm v0.0.0-20250310124309-f5d5ec4c8edc
 	github.com/spf13/cobra v1.8.1
 	k8s.io/apimachinery v0.30.2
 	k8s.io/klog/v2 v2.130.1
