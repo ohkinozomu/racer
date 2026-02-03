@@ -104,6 +104,8 @@ github.com/salrashid123/aws_rolesanywhere_signer v0.0.2 h1:rUfw/WJONRlTHBI/OG+KZ
 github.com/salrashid123/aws_rolesanywhere_signer v0.0.2/go.mod h1:90RA6RVi23Y4mDGlPPlVuwc8yFNLT3CnqAipgPTPI/w=
 github.com/salrashid123/signer/tpm v0.0.0-20240617111903-89bbd6f3aaad h1:BGYJxjyBOsXl/5FgsGYnlznWQ+5yX4dy9Q4k9wHQBWo=
 github.com/salrashid123/signer/tpm v0.0.0-20240617111903-89bbd6f3aaad/go.mod h1:CBCiHtud6ViJuJ1epuJec/n4PZT1Ind/ri2F0NXDJVI=
+github.com/salrashid123/signer/tpm v0.0.0-20250310124309-f5d5ec4c8edc h1:wtPHZ/N4oY1Qy7iV+/j/IrX6eVfyxFwiLFHfNnWNYtI=
+github.com/salrashid123/signer/tpm v0.0.0-20250310124309-f5d5ec4c8edc/go.mod h1:CBCiHtud6ViJuJ1epuJec/n4PZT1Ind/ri2F0NXDJVI=
 github.com/spf13/cobra v1.8.1 h1:e5/vxKd/rZsfSJMUX1agtjeTDf+qv1/JdBF8gg5k9ZM=
 github.com/spf13/cobra v1.8.1/go.mod h1:wHxEcudfqmLYa8iTfL+OuZPbBZkmvliBWKIezN3kD9Y=
 github.com/spf13/pflag v1.0.5 h1:iy+VFUOCP1a+8yFto/drg2CJ5u0yRoB7fZw3DKv/JXA=
