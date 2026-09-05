@@ -1,6 +1,6 @@
 module github.com/ohkinozomu/racer
 
-go 1.22.4
+go 1.25.0
 
 require (
 	github.com/aws/aws-sdk-go-v2 v1.30.1
@@ -8,8 +8,8 @@ require (
 	github.com/aws/aws-sdk-go-v2/service/ecr v1.30.1
 	github.com/aws/aws-sdk-go-v2/service/ecrpublic v1.25.1
 	github.com/aws/rolesanywhere-credential-helper v1.1.2-0.20240606210719-9e9f3c425643
-	github.com/foxboron/go-tpm-keyfiles v0.0.0-20240620184055-b891af1cbc88
-	github.com/google/go-tpm v0.9.1
+	github.com/foxboron/go-tpm-keyfiles v0.0.0-20260902202739-8c9c2d1005f4
+	github.com/google/go-tpm v0.9.9-0.20260124013517-8f8f42cba0de
 	github.com/google/go-tpm-tools v0.4.4
 	github.com/salrashid123/aws_rolesanywhere_signer v0.0.2
 	github.com/salrashid123/signer/tpm v0.0.0-20240617111903-89bbd6f3aaad
@@ -44,11 +44,11 @@ require (
 	github.com/modern-go/reflect2 v1.0.2 // indirect
 	github.com/spf13/pflag v1.0.5 // indirect
 	github.com/stefanberger/go-pkcs11uri v0.0.0-20230803200340-78284954bff6 // indirect
-	golang.org/x/crypto v0.21.0 // indirect
-	golang.org/x/net v0.23.0 // indirect
-	golang.org/x/sys v0.21.0 // indirect
-	golang.org/x/term v0.18.0 // indirect
-	golang.org/x/text v0.14.0 // indirect
+	golang.org/x/crypto v0.49.0 // indirect
+	golang.org/x/net v0.51.0 // indirect
+	golang.org/x/sys v0.42.0 // indirect
+	golang.org/x/term v0.41.0 // indirect
+	golang.org/x/text v0.35.0 // indirect
 	gopkg.in/check.v1 v1.0.0-20201130134442-10cb98267c6c // indirect
 	gopkg.in/inf.v0 v0.9.1 // indirect
 	gopkg.in/yaml.v2 v2.4.0 // indirect
